@@ -219,14 +219,18 @@ overflow: hidden; */
 
 }
 
-/* #bottom div {
+/**/
+ #bottom div {
 	flex: 1;
 }
- */
 
-/* #bottom .right_img {
+ 
+/**/
+ #bottom .right_img {
 	text-align: right;
-} */
+} 
+
+
 
 #bottom .left_img {
 	display: flex;
